@@ -14,7 +14,7 @@ But, overall the score in both models are lower that we would want them to be wi
 In the case of using this model to predict user churn, neither of these models are strong enough predictors. But we can utilize the model
 to further explore other efforts.
 
-# Buisness Understanding
+# Business Understanding
 The main stakeholders for this project are the Waze Data team, Finance and Administration Department Head and Operations Manager. The main problem they are trying to solve/understand is why they are losing users. They want to know what factors drive user churn. The model should help answer the questions 1. Who are the users most likely to churn? 2. Why do users churn? 3. When do users churn?
 
 # Data Understanding
