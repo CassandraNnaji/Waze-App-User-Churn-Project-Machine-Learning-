@@ -24,4 +24,4 @@ The plot below shows that km_per_hour, n_days_after_onboarding and percent_sessi
 ![image](https://github.com/CassandraNnaji/Waze-App-User-Churn-Project-Machine-Learning-/assets/120784310/9fd59f0f-2370-4d01-bf96-17137951925f)
 
 # Conclusion
-This model is not a good predictor for user churn. Due to the fact that its recall score is 17%. Since we know that 7 out of the top 10 important features were engineerd, we could recontruct the model and try diffrent combinations of predictive features to help reduce the noise from unpredictive variables.
+This model is not a good predictor for user churn. Due to the fact that its recall score is 17%. Since we know that 7 out of the top 10 important features were engineerd, we could recontruct the model and try diffrent combinations of predictive features to help reduce the noise from unpredictive variables. It can be recommended that we gather more data that shows how users specifically interact with the app. Such as does a user report/confirm accidents or road hazzards. 
