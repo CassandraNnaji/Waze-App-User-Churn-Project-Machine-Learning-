@@ -32,5 +32,5 @@ score.
 ![image](https://github.com/CassandraNnaji/Waze-App-User-Churn-Project-Machine-Learning-/assets/120784310/929e6135-1210-45d7-9c21-749162adf67b)
 
 # Conclusion
-This model is not a good predictor for user churn. Due to the fact that its recall score is 17%. Since we know that 7 out of the top 10 important features were engineered, we could reconstruct the model and try different combinations of predictive features to help reduce the noise from unpredictive variables. It can be recommended that we gather more data that shows how users specifically interact with the app. Such as does a user report/confirm accidents or road hazards.
+This model is not a good predictor for user churn. Due to the fact that its recall score is 17%. Since we know that 7 out of the top 10 important features were engineered, we could reconstruct the model and try different combinations of predictive features to help reduce the noise from unpredictive variables. It can be recommended that we gather more data that shows how users specifically interact with the app. Such as does a user report/confirm accidents or road hazards?
 
