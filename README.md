@@ -27,7 +27,7 @@ The original dataset contains 13 features and 14,999 entries. The features inclu
 
 # Modeling and Evaluation
 The XGBoost model comprised of 300 decision trees that determined which features were important in predicting users that churned and users that remained. 
-The plot below shows that km_per_hour, n_days_after_onboarding and percent_sessions_in_last_month are the top 3 most important features that determine if a user will churn or remain. It is also important to note that 7 out of the top 10 important features determining user churn or not, were engineered features that were added to the original dataset. The overall XGBoost model performed with 82% accuracy score and a 44% precision 
+The plot below shows that km_per_hour, n_days_after_onboarding and percent_sessions_in_last_month are the top 3 most important features that determine if a user will churn or remain. It is also important to note that 7 out of the top 10 important features determining user churn, were engineered features that were added to the original dataset. The overall XGBoost model performed with 82% accuracy score and a 44% precision 
 score.
 ![image](https://github.com/CassandraNnaji/Waze-App-User-Churn-Project-Machine-Learning-/assets/120784310/929e6135-1210-45d7-9c21-749162adf67b)
 
