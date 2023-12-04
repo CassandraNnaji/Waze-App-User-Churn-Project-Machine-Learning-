@@ -1,4 +1,4 @@
-# Predicting Waze App user Churn
+# Predicting Waze App User Churn
 
 # Overview 
 Waze is a navigation app that helps drivers around the world get to where they need to go, in the most safe and efficient amount of time.
