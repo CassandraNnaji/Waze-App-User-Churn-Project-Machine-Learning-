@@ -11,7 +11,7 @@ The project utilizes Waze user’s monthly data. What we do not know is what yea
 The Random Forest model performed with a precision score of 46%, a recall score of 13%, a f1 score of 20% and an accuracy score of 82%.
 The XGBoost Model performed with a precision score of 44%, a recall score of 17%, a f1 score of 25% and an accuracy score of 82%.
 The XGBoost model outperformed the Random Forest model slightly. In both model’s precision and accuracy scores are pretty much the same.
-But, overall the score in both models are lower that we would want them to be with the exception of accuracy score. 
+But, overall the score in both models are lower than we would want them to be with the exception of accuracy score. 
 In the case of using this model to predict user churn, neither of these models are strong enough predictors. But we can utilize the model
 to further explore other efforts.
 
